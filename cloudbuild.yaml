@@ -19,3 +19,5 @@ steps:
     - --image=gcr.io/engaged-iridium-282801/productservice:1.0
     - --location=us-east1-b
     - --cluster=cluster-1
+    
+    
