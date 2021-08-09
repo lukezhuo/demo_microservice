@@ -1,2 +1,2 @@
-# Microservice architecture utilizing Java Spring Boot
+# Microservice architecture utilizing Java Spring Boot deployed to GCP
  
